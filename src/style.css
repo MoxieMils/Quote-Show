@@ -1,0 +1,45 @@
+body {
+  background: url(https://assets.codepen.io/6057684/Bobs-Burgers-outline.svg);
+  background-size: cover;
+  height: 50vh;
+
+  /* outline: 1px solid yellow; */
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+}
+
+main {
+  background: #fffbdb;
+  opacity: 80%;
+  text-align: center;
+  font-size: 5vmin;
+  font-family: "Patrick Hand", cursive, sans-serif;
+}
+
+nav {
+  background: #fffbdb;
+}
+
+p {
+  font-family: "Patrick Hand", cursive, sans-serif;
+  font-size: 22px;
+}
+
+blockquote {
+  font-family: "Patrick Hand", cursive, sans-serif;
+  font-size: 36px;
+}
+
+/*.next {
+  width: 25%;
+}*/
+
+/* .prev {
+  display: none;
+} */
