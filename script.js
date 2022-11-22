@@ -1,3 +1,4 @@
+
 /* Data to Show*/
 const data = [
   {
@@ -16,9 +17,9 @@ const data = [
    image: 'url(https://assets.codepen.io/6057684/Louise-outline.jpg)'
   },
   {
-    quote: `“No matter what I say, stop me when I've had sixteen.” - Linda Belcher`, 
-    emoji: '🥐', 
-    image: 'url(https://assets.codepen.io/6057684/Linda-outline.jpg)'
+    quote: `“I've only had half of four bottles of wine.” - Linda Belcher`, 
+    emoji: '🍷', 
+    image: 'url(https://i.imgur.com/o2M9ILC.jpg)'
   }
 ];
 
