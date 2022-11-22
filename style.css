@@ -1,7 +1,7 @@
 body {
   background: url(https://assets.codepen.io/6057684/Bobs-Burgers-outline.svg);
   background-size: cover;
-  height: 50vh;
+  height: 25vh;
 
   /* outline: 1px solid yellow; */
 
@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
 
-  height: 100vh;
+  height: 75vh;
 }
 
 main {
@@ -28,12 +28,12 @@ nav {
 
 p {
   font-family: "Patrick Hand", cursive, sans-serif;
-  font-size: 22px;
+  font-size: 30px;
 }
 
 blockquote {
   font-family: "Patrick Hand", cursive, sans-serif;
-  font-size: 36px;
+  font-size: 42px;
 }
 
 /*.next {
